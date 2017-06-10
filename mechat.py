@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# encoding:utf-8
+
 from asynchat import async_chat
 from asyncore import dispatcher
 import socket,asyncore  
